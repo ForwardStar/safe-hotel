@@ -1,3 +1,5 @@
+# This project is no longer maintained since some dependent websites are closed.
+
 # safe-hotel
 
 ## Prerequisite
